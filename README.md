@@ -63,4 +63,3 @@ src/
 ## License
 
 Created for educational purposes as an object-oriented programming project.
-::: 
